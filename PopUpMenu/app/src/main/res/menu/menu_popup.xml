@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="PHP"
+        android:id="@+id/menuPHP"
+        />
+    <item
+        android:title="JS"
+        android:id="@+id/menuJS"
+        />
+    <item
+        android:title="C"
+        android:id="@+id/menuC"
+        />
+</menu>

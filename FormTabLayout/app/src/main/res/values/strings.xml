@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormTabLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="yourBody_fragment">Your Body fragment</string>
+    <string name="eatFood_fragment">Eat Food fragment</string>
+    <string name="drinkWater_fragment">Drink Water fragment</string>
+    <string name="sleep_fragment">Sleep fragment</string>
+</resources>
